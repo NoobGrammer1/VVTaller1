@@ -1,0 +1,8 @@
+Ryzen 5600x, 180,
+Intel i5 12400f, 120,
+Rx 6600, 320,
+RTX 3060ti, 900,
+Asus B450, 200,
+MSI X570, 150,
+Kingston 2TB, 200
+Ballax 8GB, 50
